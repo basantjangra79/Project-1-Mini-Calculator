@@ -52,7 +52,7 @@ python3 --version
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mini-calculator.git
+git clone https://github.com/basantjangra79/Project-1-Mini-Calculator.git
 ```
 
 ### 2. Navigate to the Project Folder
@@ -224,6 +224,6 @@ This project is licensed under the MIT License.
 
 **Basant Jangra**
 
-Python Developer | Software Engineer
+Python Developer
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
